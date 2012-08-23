@@ -13,7 +13,8 @@ html, body {
 .content dt {
   font-family: Vollkorn,Georgia,serif;
   font-size: 1.6rem;
-  line-height: 3;
+  line-height: 1.6;
+  margin-bottom: 5px;
 }
 
 .content dd {
@@ -30,17 +31,10 @@ html, body {
   font-size: 1.6rem;
   line-height: 1.6;
 }
-.span8 h1 {
-  line-height: 2.5;
-}
-.span8 h2 {
-  line-height: 2;
-}
-.span8 h3 {
-  line-height: 1.5;
-}
 .span8 h1, .span8 h2, .span8 h3, .span8 h4, .span8 h5, .span8 h6 {
   font-family: Vollkorn;
+  margin-bottom: 10px;
+  line-height: 2;
 }
 .navbar {
   margin-bottom: 0;
