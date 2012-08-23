@@ -1,22 +1,25 @@
 /* Override some defaults */
+html {
+  font-size: 62.5%;
+}
 html, body {
   background-color: #eee;
 }
 .content p, .content li {
   font-family: Vollkorn,Georgia,serif;
-  font-size: 1.25em;
-  line-height: 1.5em;
+  font-size: 1.6rem;
+  line-height: 1.6;
 }
 .content dt {
   font-family: Vollkorn,Georgia,serif;
-  font-size: 1.2em;
-  line-height: 2.5em;
+  font-size: 1.6rem;
+  line-height: 3;
 }
 
 .content dd {
   font-family: Vollkorn,Georgia,serif;
-  font-size: 1.2em;
-  line-height: 1.5em;
+  font-size: 1.6rem;
+  line-height: 1.6;
 }
 .content table {
   width: 100%;
@@ -24,11 +27,17 @@ html, body {
 }
 .content td {
   font-family: Vollkorn,Georgia,serif;
-  font-size: 1.2em;
-  line-height: 1.5em;
+  font-size: 1.6rem;
+  line-height: 1.6;
 }
 .span8 h1 {
-  line-height: 86px;
+  line-height: 2.5;
+}
+.span8 h2 {
+  line-height: 2;
+}
+.span8 h3 {
+  line-height: 1.5;
 }
 .span8 h1, .span8 h2, .span8 h3, .span8 h4, .span8 h5, .span8 h6 {
   font-family: Vollkorn;
