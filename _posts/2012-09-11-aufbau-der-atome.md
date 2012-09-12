@@ -37,7 +37,9 @@ Menge Materie wiederverwendet.
 > Satz von den konstanten Proportionen
 
 Verbindungen besitzen konstante Zusammensetzungen, daher verbinden sich Elemente
-in konstanten Verhältnissen.  ### Ehepaar Curie
+in konstanten Verhältnissen.
+
+### Ehepaar Curie
 
 Das Ehepaar Curie erforschte den Zerfall von Radium. Bei dessen Zerfall das
 Element Blei unter radioaktiver Strahlung entseht.
@@ -49,7 +51,7 @@ Diese Vorstellungen bewies Rutherford mit einem wichtigen Experiment.
 
 Ladung
 : Elektrizität/elektrische Ladung ist eine Stoffeigenschaften in zwei Arten:
-Positive und negative Ladung. Körper mit gleicher Ladung stoßen sich aber –
+Positive und negative Ladung. Körper mit gleicher Ladung stoßen sich ab –
 unterschiedliche Ladungen ziehen sich an.
 
 Coulombsches Gesetz
@@ -306,6 +308,8 @@ Avagadro-Konstante
 
   Teilweise auch *Loschmidt'sche Zahl* genannt.
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/AsqEkF7hcII" frameborder="0" allowfullscreen></iframe>
+
 ## Reaktionsgleichungen
 
 Eine chemische Reaktion kann durch eine Reaktionsgleichung bestimmt werden. Vor
@@ -339,7 +343,3 @@ die beteiligten Mengen an einer chemischen Reaktion zu berechnen.
 
 Stöchiometrie
 : Analysiert rechnerisch die an einer chemischen Reaktion beteiligten Mengen.
-
-# Zusammenfassung
-
-Die Mindmap gibt eine Überblick über die wichtigsten Punkte der Währmelehre.
