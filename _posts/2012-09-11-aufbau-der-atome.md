@@ -175,7 +175,7 @@ Valenzelektronen
 Die max. Anzahl an Elektronen die auf einer Schale Platz haben berechnet sich
 mit folgender Formel:
 
-![Max. Anzahl an Elektronen pro Schale](http://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%202%20%5Ccdot%201%5En%20%26%3D%20z%5C%5C%202%20%5Ccdot%201%5E2%20%26%3D%202%5C%5C%202%20%5Ccdot%202%5E2%20%26%3D%208%20%5Cend%7Balign*%7D)
+![Max. Anzahl an Elektronen pro Schale](http://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%202%20%5Ccdot%20n%5E2%20%26%3D%20z%5C%5C%202%20%5Ccdot%201%5E2%20%26%3D%202%5C%5C%202%20%5Ccdot%202%5E2%20%26%3D%208%20%5Cend%7Balign*%7D)
 
 ## Orbitalmodell
 
