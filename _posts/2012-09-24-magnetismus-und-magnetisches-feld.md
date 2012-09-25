@@ -45,8 +45,16 @@ Wechselwirkung
 
 # Anordnung von Magneten und ihre Auswirkungen
 
+Eisenstab mit **ungeordneten Elementarmagneten**:
+
+![Eisenstab mit ungeordneten Elementarmagneten](/img/elementarmagnete-ungeordnet.png)
+
 Magnetische Influenz
 : Vorgang bei dem ein Stahlstab mit dem Pol eines Magneten bestrichen wird.
+
+Eisenstab mit **geordneten Elementarmagneten** – nach magnetischer Influenz:
+
+![Eisenstab mit geordneten Elementarmagneten](/img/elementarmagnete-geordnet.png)
 
 Ferromagnetische Stoffe
 : Stoffe die von einem Magneten angezogen werden.
