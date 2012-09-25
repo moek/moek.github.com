@@ -34,7 +34,8 @@ und Arbeit verrichten.
 Wechselwirkung
 : Zwei Körper die Kräfte aufeinander ausüben.
 
-> Die Kräfte, die die Magneten wechselseit aufeinander ausüben sind gleich groß.
+> Die Kräfte, die die Magneten wechselseitig aufeinander ausüben sind gleich
+> groß.
 
 ## Grundgesetz des Magnetismus
 
