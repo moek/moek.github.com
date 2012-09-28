@@ -34,7 +34,8 @@ und Arbeit verrichten.
 Wechselwirkung
 : Zwei Körper die Kräfte aufeinander ausüben.
 
-> Die Kräfte, die die Magneten wechselseit aufeinander ausüben sind gleich groß.
+> Die Kräfte, die die Magneten wechselseitig aufeinander ausüben sind gleich
+> groß.
 
 ## Grundgesetz des Magnetismus
 
@@ -45,19 +46,40 @@ Wechselwirkung
 
 # Anordnung von Magneten und ihre Auswirkungen
 
+Eisenstab mit **ungeordneten Elementarmagneten**:
+
+![Eisenstab mit ungeordneten Elementarmagneten](/img/elementarmagnete-ungeordnet.png)
+
 Magnetische Influenz
 : Vorgang bei dem ein Stahlstab mit dem Pol eines Magneten bestrichen wird.
+
+Eisenstab mit **geordneten Elementarmagneten** – nach magnetischer Influenz:
+
+![Eisenstab mit geordneten Elementarmagneten](/img/elementarmagnete-geordnet.png)
 
 Ferromagnetische Stoffe
 : Stoffe die von einem Magneten angezogen werden.
 
 Elementarmagneten
-: Stahlstäbe bestehen aus ungeordneten Elementarmagneten. Durch magnetische
-Influenz werden diese angeordnet – der Stahlstab selbst ist jetzt magnetisch.  
+: Eisenstäbe (Stahlstäbe und Weicheisenstücke) bestehen aus ungeordneten
+Elementarmagneten.
 
-TODO: Bestehen auch Weicheisen aus Elementarmagneten?
+Anordnung von Elementarmagneten:
+
+**Stahlstäbe** werden durch magnetische Influenz magnetisiert.
+
+* Bei diesem Vorgang werden die Elementarmagneten gleichmäßig ausgerichtet.
+* Die Ausrichtung bleibt erhalten, bis der Stahlstab entmagnetisiert wird.
+
+**Weicheisenstücke** werden nur durch einen Magneten in der Nähe magnetisiert.
+
+* Hier ist die Ausrichtung nur temporär, bis der Magnet wieder entfernt wird.
 
 # Magnetisches Feld
+
+![Magnetfeld](http://upload.wikimedia.org/wikipedia/commons/0/0c/VFPt_cylindrical_magnet_thumb.svg)
+
+[Bildquelle und weiterführende Informationen.](http://de.wikipedia.org/wiki/Magnetfeld)
 
 Magnetfeld
 : Aka. magnetisches Feld. Umgibt den Raum eines Magneten und wirkt auf
@@ -70,8 +92,9 @@ Magneten.
 
 # Magnetisches Feld der Erde
 
-geografisches Nord-Süd-Richtung
-: Der magnetische Nord-/Südpol weicht vom geografischen Nord-/Südpol ab.
+Der magnetische Nord-/Südpol weicht vom geografischen Nord-/Südpol ab:
+
+![Magnetischer und geografischen Nordpol](/img/geogr-magn-nordpol.png)
 
 ## Kompass
 
