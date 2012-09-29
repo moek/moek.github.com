@@ -93,14 +93,8 @@ Feldlienen einer stromdurchflossenen Spulen:
 
 ![Feldlienen einer stromdurchflossenen Spulen](/img/spule-feldlinien.png)
 
-Schwingungen
-: todo.
-
-| Unterbrecher | Wagnerscher Hammer |
-
-
 | **Gleichstrom** | **Wechselstrom** |
-| Zeitlich unveränderliche Richtung. | In gleichbleibenden Zeitabständen wird die Richtung umgekehrt. (Heute: Fast ausschließlich 1/100s) |
+| Zeitlich unveränderliche Stromrichtung. | In gleichbleibenden Zeitabständen wird die Stromrichtung umgekehrt. (Heute: Fast ausschließlich 1/100s) |
 
 # Chemische Wirkung
 
