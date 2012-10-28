@@ -33,11 +33,11 @@ If the relative pronoun is the subject, you can omit the relative pronoun.
 
 # Questions in passive speech
 
-Questions with w-word
+Questions with one of Six Ws
 
-    ... asked [w-word] [subject] [verb]
+    ... asked [One of Six Ws] [subject] [verb]
 
-Questions without w-word use if/whether instead of.
+Questions without one of Six Ws use if/whether instead of
 
     ... asked if/whether [subject] [verb] [etc.]
 
