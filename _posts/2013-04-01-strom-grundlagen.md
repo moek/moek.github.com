@@ -21,8 +21,6 @@ Elektrischer Strom ist bewegte Ladung, Elektronen sind Träger dieser Energie.
 Stromstärke I*
 : Anzahl der Elektronen pro Sekunde.
 
-  Grundgröße, gehört MKSA-System.
-
 Ladungsmenge Q
 : ![](http://latex.codecogs.com/gif.latex?Q%20%3D%20I%20%5Ccdot%20t)
 
@@ -113,7 +111,7 @@ Zerlegt Stoffe in ihre positive und negative Teilchen.
 
 2. Elektrischer Strom wird durch Wasser geleitet.
 
-3. Ionen sammeln sich an Anode und Katote
+3. Ionen sammeln sich an Anode und Katode
 
 ## Begriffe
 
