@@ -118,7 +118,8 @@ In einer Ionenbindung werden Elektronen von einem zum anderen Atom übergeben.
 
 ### Eigenschaften
 
-* salzig
+* hohe Schmelz- und Siedepunkte
+* hard, zerspringt häufig bei dem Versuch ihn zu verformen
 
 Ionenbindungscharakter
 : Beschreibt, ob sich Elemente in einer Ionenverbindung verbinden.
