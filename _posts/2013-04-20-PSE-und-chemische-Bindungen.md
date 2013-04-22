@@ -34,7 +34,7 @@ Symbol
 : Abkürzung eines Elements.
 
 Hauptgruppen
-: Gruppiert Atome mit gleicher Anzahl Elektronen auf Außenschahle.
+: Gruppiert Atome mit gleicher Anzahl Elektronen auf Außenschale.
 
   Gruppiert Atome mit ähnlichen Eigenschaften.
 
