@@ -49,11 +49,14 @@ Perioden
 Sortierung
 ----------
 
-Pro *Periode* sind Elemente nach ihrer *EN* von links nach rechts aufsteigend
-sortiert.
+Pro *Periode* sind Elemente nach ihrer *EN* von links beginnend aufsteigend
+sortiert; von oben absteigend innerhalb einer *Elementgruppe*.
 
 Chemische Bindungen
 ===================
+
+Um die **Edelgaskonfiguration** zu erreichen, gehen Atome chemischen
+Bindungen ein.
 
 Welche Bindungen gibt es?
 -------------------------
@@ -67,14 +70,16 @@ Welche Bindungen gibt es?
 Wichtige Begriffe
 -----------------
 
-Energiedifferenz (EN)
-: Die Höhe der EN ist ein Maß für die Bereitschaft des Atoms seine Elektronen
-  abzugeben.
+Elektronegativität (EN)
+: Die Höhe der EN ist ein relatives Maß für die Fähigkeit eines Atoms,
+  Elektronen eines anderen Atoms anzuziehen.
 
-  * Je höher der Wert, desto höher die Bereitschaft Elektronen abzugeben.
-  * Je niedriger der Wert, desto geringer die Bereitschaft Elektronen abzugeben.
+  * Ein *hoher* Wert eines Atoms führt dazu, dass es Elektronen anzieht.
+  * Ein *niedriger* Wert eines Atoms führt dazu, dass es Elektronen abgibt.
 
   Die EN beeinflusst außerdem den Ionenbindungscharakter.
+
+  Der Wert ist abhängig von der *Kernladung* und dem *Atomradius* des Atoms.
 
 Atombindung
 -----------
@@ -84,6 +89,8 @@ den Atomen geteilt. Mal sind die Elektronen bei Atom A, dann bei Atom B und mal
 zwischen beiden Atomen.
 
 ![Beispiel für Atombindung](/img/atombindung.png)
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/1wpDicW_MQQ" frameborder="0" allowfullscreen></iframe>
 
 ### Voraussetzungen
 
@@ -107,6 +114,8 @@ Ionenbindung
 In einer Ionenbindung werden Elektronen von einem zum anderen Atom übergeben.
 
 ![Beispiel für ein Kristallgitter](/img/ionenbindung.png)
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/xTx_DWboEVs" frameborder="0" allowfullscreen></iframe>
 
 ### Voraussetzungen
 
@@ -134,6 +143,8 @@ Atome werden zu positiven Ionen, die ein Gitter um die negativ geladenen
 Elektronen bilden (Elektronengas).
 
 ![Beispiel für eine Metallbindung](/img/metallbindung.png)
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Bjf9gMDP47s" frameborder="0" allowfullscreen></iframe>
 
 Legierung
 : Stoff bestehend aus mind. 2 unterschiedlichen Metallen. Kann auch Nichtmetalle
