@@ -173,7 +173,7 @@ Schiefe Ebene
 
 ![](/img/schiefe-ebene.png)
 
-* **H** Hebkraft
+* **H** Hangabtriebskraft
 * **N** Normalkraft
 * **G** Gewichtskraft (Resultiert aus **H** und **N**.)
 * **h** Höhe der schiefen Ebene
